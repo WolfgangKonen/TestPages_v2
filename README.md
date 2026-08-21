@@ -5,4 +5,6 @@ Test für GitHub Pages
 
 [relative link to demo2](demo2.md)
 
-Some _italic_ text. $$E = mc^2$$.
+Some _italic_ text. 
+$$E = mc^2.$$
+bla
