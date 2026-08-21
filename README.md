@@ -8,4 +8,5 @@ Test für GitHub Pages
 Some _italic_ text. 
 $$E = mc^2.$$
 bla
-\\[a^2 + b^2\\]
+
+\[a^2 + b^2\]
