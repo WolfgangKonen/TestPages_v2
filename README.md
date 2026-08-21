@@ -4,3 +4,5 @@ Test für GitHub Pages
 [click this link](http://en.wikipedia.org)
 
 [relative link to demo2](demo2.md)
+
+Some _bold_ text. $$E = mc^2$$.
