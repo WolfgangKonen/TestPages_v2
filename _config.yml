@@ -1,6 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-include-cache
 title: WK’s blog
 description: Some adventures in computer sciences and mathematics
 
